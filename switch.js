@@ -5,10 +5,10 @@ switch (true) {
     case 10:
         console.log("Soy un 10!");
         break;
-    case 100; 
+    case 100: 
         console.log("Soy un 100!"); 
         break; 
     default:
         console.log("NO soy nada!");
-        
+
 }
